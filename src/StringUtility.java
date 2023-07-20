@@ -182,5 +182,4 @@ public final class StringUtility {
 
         return output.trim(); // output should not have leading of trailing spaces
     }
-
 }
